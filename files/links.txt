@@ -1,0 +1,10 @@
+Dashboard
+https://qalam.nust.edu.pk/student/dashboard
+Results
+https://qalam.nust.edu.pk/student/results
+Invoices
+https://qalam.nust.edu.pk/student/invoices
+Mess Invoices
+https://qalam.nust.edu.pk/student/messinvoices
+Attendance
+https://qalam.nust.edu.pk/student/attendance/
